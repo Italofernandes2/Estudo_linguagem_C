@@ -1,3 +1,5 @@
+//Escreva um programa que leia um inteiro e mostre seu antecessor e sucessor
+
 #include <stdio.h>
 
 int main(){
