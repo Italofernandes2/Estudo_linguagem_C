@@ -14,8 +14,8 @@ int main() {
 
     media = (nota1 + nota2 + nota3 + nota4)/4;
 
-    printf("A media da notas e: ", media);
+    printf("A media da notas e: %.2f", media);
 
-    return (0)
+    return (0);
 
 }
