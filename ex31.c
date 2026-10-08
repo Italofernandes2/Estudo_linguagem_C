@@ -11,10 +11,10 @@ main (){
 
     fat = 1;
 
-    for(i=1; i<=num; i++){
-        fat=fat*i;
-        printf("\nO fatorial e: %d", fat);
-    }
+    for(i=1; i<=num; i++)
+    fat=fat*i;
+    printf("\nO fatorial e: %d", fat);
+
 
     return(0);
 }
