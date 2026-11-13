@@ -2,7 +2,8 @@
 
 int main() {
     int matrizA[3][3];
-    int i, j, quantidade = 0, media = 0, soma = 0;
+    int i, j, quantidade = 0, soma = 0;
+    float media = 0;
 
     for(i = 0; i < 3; i++) {
         for(j = 0; j < 3; j++) {
